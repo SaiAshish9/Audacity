@@ -1,3 +1,4 @@
+<img width="1792" alt="Screenshot 2023-07-25 at 8 46 19 PM" src="https://github.com/SaiAshish9/Audacity/assets/43849911/49b94479-b135-44ba-8828-4fff21c61f9c">
 ```
 Use headphones for better comparison
 
@@ -17,4 +18,9 @@ Use headphones for better comparison
 14. Select the initial part where you didn't said anything, go to  Effect => Noise Removal And Repair => Noise Reduction => Get Noise Profile
 15. Select Effect => Noise Removal And Repair => Noise Reduction => OK.
 16. Select File => Export => Export as WAV (best audio format)
+
+Best noise will be between -6DB and 0DB
 ```
+
+![Uploading Screenshot 2023-07-25 at 8.46.31 PM.png…]()
+![Uploading Screenshot 2023-07-25 at 9.21.34 PM.png…]()
